@@ -10,7 +10,7 @@ module.exports = {
 
   hapi: {
     host: "localhost",
-    port: 8000,
+    port: 1337,
 
     good: {
       requestHeaders: true,
